@@ -130,7 +130,7 @@ Steps followed during data cleaning:-
 ## 3. Exploratory Data Analysis
 Steps followed in EDA:-
 1. Find out correlation in data set
-<img src="static/kideny_hm.png" alt=""/>
+<img src="templates/kideny_hm.png" alt=""/>
 2. Remove correlated values and only 8 features from data set are taken
 ## 4. Spilt the 80 % data for training and 20% data for testing
 <br/>
@@ -146,13 +146,13 @@ Steps followed in EDA:-
 6. KNN
 7. Kernal SVM
 8. Decision Tree
-<img src="static/kideny_acc_compa.png" alt=""/>
+<img src="templates/accuracy_prediction.png" alt=""/>
 We have taken the Random forest algorithm model because of it's accuracy.
 
 ## 6. Hyperparameter tunning
 Perform the hyperparameter tuning to avoid the overfitting in model.
 ### We got 97.5% accuracy 
-<img src="static/kideny_final_acc.PNG" alt=""/>
+<img src="templates/final_accuracy" alt=""/>
 
 ## 7. Deploy model on website
 Create website using flask and use model for prediction.
