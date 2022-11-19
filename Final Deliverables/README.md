@@ -132,7 +132,8 @@ Steps followed in EDA:-
 1. Find out correlation in data set
 <img src="Deployment/templates/kideny_hm.png" alt=""/>
 2. Remove correlated values and only 8 features from data set are taken
-### 4. Spilt the 80 % data for training and 20% data for testing
+<br/>
+4. Spilt the 80 % data for training and 20% data for testing
 <br/>
 
 ## 5. Creation of machine learning model
@@ -152,7 +153,7 @@ We have taken the Random forest algorithm model because of it's accuracy.
 ## 6. Hyperparameter tunning
 Perform the hyperparameter tuning to avoid the overfitting in model.
 ### We got 97.5% accuracy 
-<img src="Deployment/templates/final_accuracy" alt=""/>
+<img src="Deployment/templates/final_accuracy.png" alt=""/>
 
 ## 7. Deploy model on website
 Create website using flask and use model for prediction.
