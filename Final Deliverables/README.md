@@ -1,4 +1,4 @@
-# Chronic-Kidney-Disease-Prediction
+# Chronic Kidney Disease Prediction
 The goal of this project is predit the chronic kidney disease using parameters such as Specific Gravity, Hyper Tension, Hemoglobin, Diabetes Mellitus, Albumin
 , Appetite, Red Blood Cell Count, Pus Cell etc.
 
@@ -130,9 +130,9 @@ Steps followed during data cleaning:-
 ## 3. Exploratory Data Analysis
 Steps followed in EDA:-
 1. Find out correlation in data set
-<img src="templates/kideny_hm.png" alt=""/>
+<img src="Deployment/templates/kideny_hm.png" alt=""/>
 2. Remove correlated values and only 8 features from data set are taken
-## 4. Spilt the 80 % data for training and 20% data for testing
+### 4. Spilt the 80 % data for training and 20% data for testing
 <br/>
 
 ## 5. Creation of machine learning model
@@ -146,13 +146,13 @@ Steps followed in EDA:-
 6. KNN
 7. Kernal SVM
 8. Decision Tree
-<img src="templates/accuracy_prediction.png" alt=""/>
+<img src="Deployment/templates/accuracy_prediction.png" alt=""/>
 We have taken the Random forest algorithm model because of it's accuracy.
 
 ## 6. Hyperparameter tunning
 Perform the hyperparameter tuning to avoid the overfitting in model.
 ### We got 97.5% accuracy 
-<img src="templates/final_accuracy" alt=""/>
+<img src="Deployment/templates/final_accuracy" alt=""/>
 
 ## 7. Deploy model on website
 Create website using flask and use model for prediction.
