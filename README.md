@@ -9,7 +9,8 @@ Chronic Kidney Disease (CKD) is a serious medical condition that, if caught earl
 ## Demo video link:
 The link to view the screen recording of our project is :
 
-##https://drive.google.com/file/d/1WzVq79DO5WOY4kUUwSPnhMlckl-ZGmkk/view?usp=share_link Team Details:
+https://drive.google.com/file/d/1WzVq79DO5WOY4kUUwSPnhMlckl-ZGmkk/view?usp=share_link 
+Team Details:
 Team Leader- Dincy.V.D      
 Team Member(1)- Brindha.C      
 Team Member(2)- Divya Rani.R         
